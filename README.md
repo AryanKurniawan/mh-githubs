@@ -2,6 +2,7 @@
 Please preserve sorted order (by first name).
 
 - Aaron Taylor https://github.com/ExPHAT
+- Aryan Kurniawan https://github.com/AryanKurniawan
 - Christopher Gregorian https://github.com/csgregorian
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Ioana Crant https://github.com/ioanacrant
